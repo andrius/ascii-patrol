@@ -7,12 +7,12 @@ Docker version of Ascii Patrol - an ASCII game project, mainly inspired by arcad
 Enjoy!
 
 
-![Ascii Patrol](./doc/media/ascii-patrol.gif)
+![Ascii Patrol](https://github.com/andrius/ascii-patrol/raw/master/doc/media/ascii-patrol.gif)
 
 
 # Instructions
 
-Tune up your terminal resolution and execute `docker exec -ti --rm andrius/ascii-patrol`.
+Tune up your terminal resolution and execute `docker exec -ti --rm andrius/ascii-patrol`
 
 
 # References
