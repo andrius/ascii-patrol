@@ -3,13 +3,23 @@ ascii-patrol
 
 Docker version of Ascii Patrol - an ASCII game project, mainly inspired by arcade game "Moon Patrol".
 
-![Ascii Patrol](./doc/media/ascii-patrol.gif)
 
 Enjoy!
 
+
+![Ascii Patrol](./doc/media/ascii-patrol.gif)
+
+
+# Instructions
+
+Tune up your terminal resolution and execute `docker exec -ti --rm andrius/ascii-patrol`.
+
+
 # References
 
+- [Docker hub build](https://hub.docker.com/r/andrius/ascii-patrol)
 - [GitHub repository with Docker stuff](https://github.com/andrius/ascii-patrol)
+
 
 - [Ascii Patrol Home Page (ascii-patrol.com)](http://ascii-patrol.com)
 - [GitHub repository](https://github.com/msokalski/ascii-patrol)
