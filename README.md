@@ -12,7 +12,7 @@ Enjoy!
 
 # Instructions
 
-Tune up your terminal resolution and execute `docker exec -ti --rm andrius/ascii-patrol`
+Tune up your terminal resolution and execute `docker run -ti --rm andrius/ascii-patrol`
 
 
 # References
