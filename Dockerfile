@@ -19,7 +19,7 @@ RUN apk add --update --allow-untrusted --repository http://dl-4.alpinelinux.org/
 && cp run.sh /app \
 && cp asciipat /app \
 && cd /app \
-&& apk del --purgr .build-dependencies \
+&& apk del --purge .build-dependencies \
 && rm -rf /usr/src/ascii-patrol \
           /var/cache/apk/* \
           /tmp/* \
